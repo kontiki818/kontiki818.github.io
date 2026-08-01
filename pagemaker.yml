@@ -1,0 +1,15 @@
+---
+package_name: kontiki818.github.io
+author: Kon-Tiki 818
+generator:
+  component: project-site
+  inputs:
+    project_id: kontiki818.github.io
+    project_name: kontiki818.github.io
+    project_desc: Website for Kon-Tiki 818 project
+    author_name: Kon-Tiki 818
+    author_email: blah+lgl@cliffano.com
+    author_url: https://github.com/kontiki818
+    github_id: kontiki818
+    github_repo: kontiki818.github.io
+    github_token_prefix: KONTIKI818

@@ -1,0 +1,26 @@
+{
+	"org": {
+		"id": "kontiki818",
+		"name": "Kon-Tiki 818",
+		"description": "Kon-Tiki Advertising technology department"
+	},
+	"repositories": {
+		"Utilities": [
+			{
+				"id": "knut-haugland",
+				"name": "Knut Haugland",
+				"description": "Makefile for creating Kon-Tiki static web sites"
+			},
+			{
+				"id": "generator-kon-tiki",
+				"name": "Generator-Kon-Tiki",
+				"description": "Kon-Tiki static web site projects generator using [Plop](https://plopjs.com/)"
+			},
+			{
+				"id": "kontiki818.github.io",
+				"name": "kontiki818.github.io",
+				"description": "Website for Kon-Tiki 818 project"
+			}
+		]
+	}
+}
