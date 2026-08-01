@@ -1,5 +1,0 @@
-jsonlint-dir - devDependencies - already latest ^1.7.0
-jazz-cli - devDependencies - already latest ^1.2.0
-markdown-link-check - devDependencies - upgraded to ^3.15.0
-pkjutil - devDependencies - already latest ^1.0.1
-yamllint-js - devDependencies - already latest ^0.2.4
