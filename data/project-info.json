@@ -22,5 +22,21 @@
 				"description": "Website for Kon-Tiki 818 project"
 			}
 		]
+	},
+	"extras": {
+		"creative_projects": {
+			"Instagram": [
+				{
+					"url": "https://instagram.com/imageneerium",
+					"name": "Imageneerium",
+					"description": "Welcome to Imageneerium - AI and imagination"
+				},
+				{
+					"url": "https://instagram.com/tintintravelogue",
+					"name": "Tintin Travelogue",
+					"description": "An Instagram journey reimagining the world’s most famous young reporter in thrilling, untold expeditions from the 1930s"
+				}
+			]
+		}
 	}
 }
