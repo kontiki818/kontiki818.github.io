@@ -2,7 +2,8 @@
 
 Kon-Tiki Advertising technology department
 
-### Instagram
+### Utilities
 
-* [Imageneerium](https://instagram.com/imageneerium) - Welcome to Imageneerium - AI and imagination
-* [Tintin Travelogue](https://instagram.com/tintintravelogue) - An Instagram journey reimagining the world’s most famous young reporter in thrilling, untold expeditions from the 1930s
+* [![Build Status](https://github.com/kontiki818/knut-haugland/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/kontiki818/knut-haugland/actions?query=workflow%3ACI) [Knut Haugland](https://github.com/kontiki818/knut-haugland) - Makefile for creating Kon-Tiki static web sites
+* [![Build Status](https://github.com/kontiki818/generator-kon-tiki/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/kontiki818/generator-kon-tiki/actions?query=workflow%3ACI) [Generator-Kon-Tiki](https://github.com/kontiki818/generator-kon-tiki) - Kon-Tiki static web site projects generator using [Plop](https://plopjs.com/)
+* [![Build Status](https://github.com/kontiki818/kontiki818.github.io/actions/workflows/ci-workflow.yaml/badge.svg)](https://github.com/kontiki818/kontiki818.github.io/actions?query=workflow%3ACI) [kontiki818.github.io](https://github.com/kontiki818/kontiki818.github.io) - Website for Kon-Tiki 818 project
