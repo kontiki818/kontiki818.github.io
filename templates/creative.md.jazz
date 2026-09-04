@@ -1,0 +1,8 @@
+![{org.name}](images/logo.png)
+
+{org.description}
+{foreach project_group in extras.creative_projects}
+### {project_group.key}
+
+{foreach project in project_group.value}* [{project.name}]({project.url}) - {project.description}
+{end}{end}
