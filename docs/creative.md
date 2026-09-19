@@ -4,7 +4,7 @@ Kon-Tiki Advertising technology department
 
 ### Instagram
 
-* [Architecture Cliffano](https://www.instagram.com/cliffano) - Buildings+Architecture. 🇦🇺🌏
+* [Architecture Cliffano](https://www.instagram.com/cliffano) - Buildings+Architecture 🇦🇺🌏
 * [Coffee Cup Archive](https://www.instagram.com/coffeecuparchive) - Melbourne Coffee Cup Design Archive 2 (MCCDA2)
 * [Daily Lead](https://www.instagram.com/dailylead) - Daily News Lead Delivered
 * [Garden Velabro](https://instagram.com/gardenvelabro) - 住めば都
