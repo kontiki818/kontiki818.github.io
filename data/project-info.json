@@ -27,6 +27,16 @@
 		"creative_projects": {
 			"Instagram": [
 				{
+                    "url": "https://www.instagram.com/coffeecuparchive",
+					"name": "Coffee Cup Archive",
+					"description": "Melbourne Coffee Cup Design Archive 2 (MCCDA2)"
+				},
+				{
+                    "url": "https://www.instagram.com/dailylead",
+					"name": "Daily Lead",
+					"description": "Daily News Lead Delivered"
+				},
+				{
 					"url": "https://instagram.com/imageneerium",
 					"name": "Imageneerium",
 					"description": "Welcome to Imageneerium - AI and imagination"
