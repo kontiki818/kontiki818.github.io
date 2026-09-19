@@ -27,6 +27,11 @@
 		"creative_projects": {
 			"Instagram": [
 				{
+					"url": "https://www.instagram.com/cliffano",
+					"name": "Architecture Cliffano",
+					"description": "Buildings+Architecture. 🇦🇺🌏"
+				},
+				{
                     "url": "https://www.instagram.com/coffeecuparchive",
 					"name": "Coffee Cup Archive",
 					"description": "Melbourne Coffee Cup Design Archive 2 (MCCDA2)"
@@ -37,14 +42,36 @@
 					"description": "Daily News Lead Delivered"
 				},
 				{
+					"url": "https://instagram.com/gardenvelabro",
+					"name": "Garden Velabro",
+					"description": "住めば都"
+				},
+				{
 					"url": "https://instagram.com/imageneerium",
 					"name": "Imageneerium",
 					"description": "Welcome to Imageneerium - AI and imagination"
 				},
 				{
+					"url": "https://instagram.com/karkarookpark",
+					"name": "Karkarook Park",
+					"description": "A place to recharge"
+				},
+				{
 					"url": "https://instagram.com/tintintravelogue",
 					"name": "Tintin Travelogue",
 					"description": "An Instagram journey reimagining the world’s most famous young reporter in thrilling, untold expeditions from the 1930s"
+				}
+			],
+			"Pinterest": [
+				{
+                    "url": "https://au.pinterest.com/cliffano/studio/",
+					"name": "Studio",
+					"description": "A design study of home learning and working spaces in films"
+				},
+				{
+                    "url": "https://au.pinterest.com/cliffano/melbourne-coffee-cup-design-archive/",
+					"name": "Daily Lead",
+					"description": "Melbourne Coffee Cup Design Archive 2 (MCCDA2)"
 				}
 			]
 		}
