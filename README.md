@@ -12,5 +12,5 @@
 Website for Kon-Tiki 818 project at [https://kontiki818.github.io](https://kontiki818.github.io).
 
 <!-- BEGIN:DEVELOPERS_GUIDE -->
-[Developer's Guide](https://kontiki818.github.io/developers-guide-website.html)
+[Developer's Guide](https://cliffano.github.io/developers-guide-website.html)
 <!-- END:DEVELOPERS_GUIDE -->
